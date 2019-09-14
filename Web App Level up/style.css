@@ -1,0 +1,12 @@
+.navbar-nav > li > .nav-item {     background-color: #010101 !important;  }
+
+.dropdown-item:hover {
+	background-color: #010101 !important;
+	transition: all 1s ease-in-out;
+}
+
+@media only screen and (max-width: 500px){
+        .a{
+          text-align: center;
+        }
+      }
